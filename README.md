@@ -27,4 +27,19 @@
 #0405
 [![Luxray](https://img.pokemondb.net/sprites/sword-shield/normal/luxray.png)](https://pokemondb.net/pokedex/luxray)
 
+#0448
+[![Lucario](https://img.pokemondb.net/sprites/sword-shield/normal/lucario.png)](https://pokemondb.net/pokedex/lucario)
+
+#0501
+[![Oshawott](https://img.pokemondb.net/sprites/black-white/shiny/oshawott.png)](https://pokemondb.net/pokedex/oshawott)
+
+#0663
+[![Talonflame](https://img.pokemondb.net/sprites/sword-shield/normal/talonflame.png)](https://pokemondb.net/pokedex/talonflame)
+
+#0658
+[![Greninja](https://img.pokemondb.net/sprites/x-y/shiny/greninja.png)](https://pokemondb.net/pokedex/greninja)
+
+#0818
+[![Inteleon](https://img.pokemondb.net/sprites/sword-shield/normal/inteleon.png)](https://pokemondb.net/pokedex/inteleon)
+
 
