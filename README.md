@@ -9,6 +9,9 @@
 #0053
 [![Persian](https://img.pokemondb.net/sprites/sword-shield/normal/persian.png)](https://pokemondb.net/pokedex/persian)
 
+#0083
+[![Farfetch'd](https://img.pokemondb.net/sprites/sword-shield/normal/farfetchd.png)](https://pokemondb.net/pokedex/farfetchd)
+
 #0096
 [![Gengar](https://img.pokemondb.net/sprites/sword-shield/normal/gengar.png)](https://pokemondb.net/pokedex/gengar)
 
