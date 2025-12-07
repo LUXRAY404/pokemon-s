@@ -30,8 +30,6 @@
 #0448
 [![Lucario](https://img.pokemondb.net/sprites/sword-shield/normal/lucario.png)](https://pokemondb.net/pokedex/lucario)
 
-#0501
-[![Oshawott](https://img.pokemondb.net/sprites/black-white/shiny/oshawott.png)](https://pokemondb.net/pokedex/oshawott)
 
 #0663
 [![Talonflame](https://img.pokemondb.net/sprites/sword-shield/normal/talonflame.png)](https://pokemondb.net/pokedex/talonflame)
