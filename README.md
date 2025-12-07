@@ -39,6 +39,9 @@
 #0658
 [![Greninja](https://img.pokemondb.net/sprites/x-y/shiny/greninja.png)](https://pokemondb.net/pokedex/greninja)
 
+#0815
+[![Cinderace](https://img.pokemondb.net/sprites/sword-shield/normal/cinderace.png)](https://pokemondb.net/pokedex/cinderace)
+
 #0818
 [![Inteleon](https://img.pokemondb.net/sprites/sword-shield/normal/inteleon.png)](https://pokemondb.net/pokedex/inteleon)
 
