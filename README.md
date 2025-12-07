@@ -45,4 +45,7 @@
 #0818
 [![Inteleon](https://img.pokemondb.net/sprites/sword-shield/normal/inteleon.png)](https://pokemondb.net/pokedex/inteleon)
 
+#0823
+[![Corviknight](https://img.pokemondb.net/sprites/sword-shield/normal/corviknight.png)](https://pokemondb.net/pokedex/corviknight)
+
 
