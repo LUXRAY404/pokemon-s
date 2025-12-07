@@ -24,9 +24,6 @@
 #0282
 [![Gardevoir](https://img.pokemondb.net/sprites/sword-shield/normal/gardevoir.png)](https://pokemondb.net/pokedex/gardevoir)
 
-#0392
-[![Infernape](https://img.pokemondb.net/sprites/diamond-pearl/shiny/infernape.png)](https://pokemondb.net/pokedex/infernape)
-
 #0405
 [![Luxray](https://img.pokemondb.net/sprites/sword-shield/normal/luxray.png)](https://pokemondb.net/pokedex/luxray)
 
