@@ -48,4 +48,24 @@
 #0823
 [![Corviknight](https://img.pokemondb.net/sprites/sword-shield/normal/corviknight.png)](https://pokemondb.net/pokedex/corviknight)
 
+#0906
+[![Sprigatito](https://img.pokemondb.net/sprites/scarlet-violet/normal/sprigatito.png)](https://pokemondb.net/pokedex/sprigatito)
+
+#0909
+[![Fuecoco](https://img.pokemondb.net/sprites/scarlet-violet/normal/fuecoco.png)](https://pokemondb.net/pokedex/fuecoco)
+
+#0912
+[![Quaxly](https://img.pokemondb.net/sprites/scarlet-violet/normal/quaxly.png)](https://pokemondb.net/pokedex/quaxly)
+
+#0924
+[![Tandemaus](https://img.pokemondb.net/sprites/scarlet-violet/normal/tandemaus.png)](https://pokemondb.net/pokedex/tandemaus)
+
+#0937
+[![Ceruledge](https://img.pokemondb.net/sprites/scarlet-violet/normal/ceruledge.png)](https://pokemondb.net/pokedex/ceruledge)
+
+#0940
+[![Wattrel](https://img.pokemondb.net/sprites/scarlet-violet/normal/wattrel.png)](https://pokemondb.net/pokedex/wattrel)
+
+#
+
 
